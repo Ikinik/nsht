@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://ikinik.github.io/nsht/"
 languageCode = "cs-cz"
 title = "#No Shit"
 theme = "LeaveIt"
