@@ -39,7 +39,7 @@ preserveTaxonomyNames = true
 [params]
     since = 2010
     author = "#NSHT"                           # Author's name
-    avatar = "/images/me/avatar.png"           # Author's avatar
+    avatar = "images/me/avatar.png"           # Author's avatar
     subtitle = "The Event manager"         # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
